@@ -3,6 +3,7 @@
 Created on Sun Feb  8 19:33:09 2015
 
 @author: bxiao
+Here is a new comment
 """
 from scipy import misc
 import matplotlib.pyplot as plt
